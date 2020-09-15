@@ -22,4 +22,4 @@ The actual price:
 
 <img width="208" alt="Ph3" src="https://user-images.githubusercontent.com/42979064/93258076-97740a00-f7bf-11ea-9530-839539255eea.png">
 
-### Do not use this program to track the stock market
+##### Do not use this program to track the stock market
